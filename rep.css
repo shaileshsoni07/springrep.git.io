@@ -1,0 +1,119 @@
+.s1{
+background-size: cover;
+position: relative;
+left: 100px;
+right: 100px;
+padding-top: 0px;
+padding-right: 90px;
+}
+.sign{
+	margin: 0px; 
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 200px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    color: white;
+    font-size: 20px;
+}
+.signin{
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 200px;
+    padding-top: 0px;
+    color: white;
+    font-size: 40px;
+    margin: 0px; 
+
+}
+.textbook{
+	background-color: #3abaac;
+	height: 370px;
+    margin-top: 5px;	
+    width: auto;
+}
+.child{
+   font-family: 'Open Sans', sans-serif; 
+   color:white; 
+   font-weight: bold;
+   padding-left: 200px;
+   font-size: 40px;
+   margin: 0px;
+   padding-top: 5px;
+}
+.grow{
+   position: relative;
+   right: 0px;
+   padding-right: 0px;
+
+}
+.start{
+   font-family: 'Open Sans', sans-serif;
+   color: #d83230;
+   font-size: 36px;
+   margin: 0px;
+   padding-left: 600px;
+}
+.Teachers{
+   font-family: 'Open Sans', sans-serif;
+   color: #d83230;
+   font-size: 36px;
+   margin: 0px;
+   padding-left: 560px;
+}
+.tab{
+	border-style: solid;
+	border-color: red;
+	border-top: transparent;
+	border-bottom: transparent;
+	border-left-color: red;
+	border-right-color: red;
+
+}
+a{
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+	color: black;
+
+}
+td{
+	padding-left: 100px;
+	}
+tr{
+
+	border-style: solid;
+	border-color: red;
+	border-top: transparent;
+	border-bottom: transparent;
+	border-left-color: red;
+	border-right-color: red;
+	column-span: 50px;
+}
+.get{
+	background-image: url("images/rep4.jpg");
+	display: inline-block;
+	height:; 
+	width:;
+}
+.login{
+	background-color: rgb(173, 40, 38);
+	height:275px;
+	width:300px;
+	position: relative;
+	left: 200px;
+}
+.emails{
+	padding-top: 25px;
+    padding-left: 20px;
+    background-color: 
+}
+
+tm-scroll {
+    overflow: auto;
+    background: #fff;
+    width: 242px;
+    height: 380px;
+    padding: 17px 17px 0 17px;
+    font-size: 17px;
+    position: relative;
+    display: inline-block;
+    border: 1px solid black;
+}
